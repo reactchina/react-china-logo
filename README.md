@@ -14,7 +14,7 @@ The idea is to wrap the official [React](https://reactjs.org/) logo into a [Chin
 
 ## Source
 
-The Sketch file contains 5 design candidates. Propoal `(C)` were elected thus
+The Sketch file contains 5 design candidates. Propoal `(C)` was elected hence
 created as a Symbol to be independently exportable.
 
 
