@@ -7,12 +7,12 @@
 
 - SVG:
 
-<img src="./react-china-logo.svg" />
+<img src="./react-china-logo.svg" align="center" width="15%" />
 
 
 - PNG (500px width):
 
-<img src="./react-china-logo@500w.png" />
+<img src="./react-china-logo@500w.png" align="center" width="15%" />
 
 
 ## Source
