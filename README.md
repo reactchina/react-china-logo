@@ -7,14 +7,9 @@ The idea is to wrap the official [React](https://reactjs.org/) logo into a [Chin
 
 ## Assets
 
-- SVG:
-
-<img src="./react-china-logo.svg" align="center" width="15%" />
-
-
-- PNG (500px width):
-
-<img src="./react-china-logo@500w.png" align="center" width="15%" />
+| SVG         | PNG (500w)  |
+| ----------- | ----------- |
+| <img src="./react-china-logo.svg" width="100px" />  | <img src="./react-china-logo@500w.png" width="100px" />  |
 
 
 ## Source
